@@ -1,0 +1,1 @@
+export const user = {name:'toan',password:'123456'};
